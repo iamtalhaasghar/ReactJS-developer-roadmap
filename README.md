@@ -1,3 +1,9 @@
+Following this guide step by step is **_Highly Recommended_**. 
+This guide is for **_newbies_**. Yes I repeat **_newbies_**. 
+<br><br>
+If you feel you are stuck and aren't learning anything or if you find this roadmap difficult at any point let me know by creating an **_Issue_**. I will update the roadmap with more easier and easy to follow tutorials.
+<br><br>
+
 | Title | Length | Difficulty | Pre-Req | What to expect |
 |-------| -------|--------------|---------------|---|
 | [What Is React (React js) & Why Is It So Popular?](https://yewtu.be/watch?v=N3AkSS5hXMA) | 5min | Easy | None | A very easy and detailed Introduction to ReactJS |
